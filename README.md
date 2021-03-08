@@ -2,7 +2,6 @@
 Gruppe 10 sin repo for IS105.
 
 Kjell Herman Solberg
-Janis Gailis
+Noah Brovig Høgstøl
 Kristina Hoel
-Ammar Bazella
 Nirusha Ranjan
