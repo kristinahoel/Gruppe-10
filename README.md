@@ -5,4 +5,4 @@ Kjell Herman Solberg
 Noah Brovig Høgstøl
 Kristina Hoel
 Nirusha Ranjan
-Aleksander Gresseth Hamre
+\nAleksander Gresseth Hamre
