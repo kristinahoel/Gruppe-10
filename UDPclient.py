@@ -26,3 +26,4 @@ try:
 finally:
     print("closing socket")
     sock.close()
+
