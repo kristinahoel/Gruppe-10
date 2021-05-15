@@ -6,3 +6,4 @@ Noah Brovig Høgstøl
 Kristina Hoel
 Nirusha Ranjan
 Henrik Stiansen Johansson
+Alexander Gresseth Hamre
